@@ -20,3 +20,4 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 ### [Day 1](https://adventofcode.com/2021/day/1)
 Day 1 is pretty straightforward.
 - JS Solution: [Day 1](js/day1.js)
+- C# Solution: [Day 1](cs/day1.cs) - Very Optimized
