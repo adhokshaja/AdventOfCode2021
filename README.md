@@ -10,7 +10,7 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 ## Personal Stats
 
 | Day |Part 1 Time| Part 1 Rank |Part2 Time | Part 2 Rank |Notes|
-|--|-----|-----|-----|-----|-----|-----|
+|--|-----|-----|-----|-----|-----|
 |1|00:03:37|1880|00:11:39|2935| |
 |2|00:07:09|4990|00:09:14|3627| Started about 2 mins late |
 |3|00:09:04|2403|00:24:14|1535| |
