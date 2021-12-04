@@ -14,6 +14,7 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 |1|00:03:37|1880|00:11:39|2935| |
 |2|00:07:09|4990|00:09:14|3627| Started about 2 mins late |
 |3|00:09:04|2403|00:24:14|1535| |
+|4|01:25:45|7978|02:11:05|8836| |
 
 
 
@@ -31,3 +32,7 @@ Day 2 is also very straightforward.
 ### [Day 3](https://adventofcode.com/2021/day/3)
 Day 3 took a few mins to fully understand; but once understood is kinda easy. 
 - JS Solution: [Day 3](js/Day3.js) - Brute Force, Recursive function
+
+### [Day 4](https://adventofcode.com/2021/day/4)
+Screwed up parsing input, Github Copilot screwed me over and sent me down the wrong path.
+- JS Solution: [Day 4](js/Day4.js)
