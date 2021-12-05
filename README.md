@@ -15,6 +15,7 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 |2|00:07:09|4990|00:09:14|3627| Started about 2 mins late |
 |3|00:09:04|2403|00:24:14|1535| |
 |4|01:25:45|7978|02:11:05|8836| |
+|5|00:26:21|3528|00:43:11|3458| |
 
 
 
@@ -36,3 +37,7 @@ Day 3 took a few mins to fully understand; but once understood is kinda easy.
 ### [Day 4](https://adventofcode.com/2021/day/4)
 Screwed up parsing input, Github Copilot screwed me over and sent me down the wrong path.
 - JS Solution: [Day 4](js/Day4.js)
+
+### [Day 5](https://adventofcode.com/2021/day/5)
+Day 5 was a little tricky, didn't realize at first that the vents could go in either direction.
+- JS Solution: [Day 5](js/Day5.js)
