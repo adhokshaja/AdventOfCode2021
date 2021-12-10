@@ -51,9 +51,7 @@ var solve = (input) => {
       } else {
         var last = stack.pop();
         if (pairs[last] !== token) {
-          //console.log(`${last} does not match ${token} : score[last] = ${score[token]}`);
           scores.push(score[token]);
-          corrupted = true;
         }
       }
     }
