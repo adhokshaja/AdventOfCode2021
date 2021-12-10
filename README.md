@@ -19,6 +19,8 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 |6|00:16:51|5785|00:17:52|1646| Took a hit on part 1 to have gains in part 2 |
 |7|00:11:48|5325|00:20:20|5190||
 |8|00:21:43|6212|02:21:11|7079| |
+|9|00:23:22|5466|00:28:44|1949| |
+|10|00:36:20|7106|00:54:38|6872| Started about 20 mins late |
 
 
 
@@ -57,3 +59,11 @@ Day 7 is where brute force works just fine, but had to spend some time with typo
 ### [Day 8](https://adventofcode.com/2021/day/8)
 Day 8 is a little tricky. Spent a ton of time trying to understand the problem.
 - JS Solution: [Day 8](js/Day8.js)
+
+### [Day 9](https://adventofcode.com/2021/day/9)
+
+- JS Solution: [Day 9](js/Day9.js)
+
+### [Day 10](https://adventofcode.com/2021/day/10)
+Day 10 is very straight forward.
+- JS Solution: [Day 10](js/Day10.js)
