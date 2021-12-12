@@ -21,6 +21,8 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 |8|00:21:43|6212|02:21:11|7079| |
 |9|00:23:22|5466|00:28:44|1949| |
 |10|00:36:20|7106|00:54:38|6872| Started about 20 mins late |
+|11|00:25:00|1929|00:27:09|1717| |
+|12|00:49:51|4379|02:06:32|6176| |
 
 
 
@@ -67,3 +69,11 @@ Day 8 is a little tricky. Spent a ton of time trying to understand the problem.
 ### [Day 10](https://adventofcode.com/2021/day/10)
 Day 10 is very straight forward.
 - JS Solution: [Day 10](js/Day10.js)
+
+### [Day 11](https://adventofcode.com/2021/day/11)
+Had to re-read intrutions multiple times to get the sequence of operations right.
+- JS Solution: [Day 11](js/Day11.js)
+
+### [Day 12](https://adventofcode.com/2021/day/12)
+Got Stuck on part 2 for a while. ( Delta 1:16:41)
+- JS Solution: [Day 12](js/Day12.js)
