@@ -24,6 +24,7 @@ As of now, I'm only planning on doing C#, Julia, and Python in addition to JS. A
 |11|00:25:00|1929|00:27:09|1717| |
 |12|00:49:51|4379|02:06:32|6176| |
 |13|00:45:58|5139|00:51:12|4359| |
+|14|00:22:11|3807|01:30:19|4463| |
 
 
 
@@ -82,3 +83,7 @@ Got Stuck on part 2 for a while. ( Delta 1:16:41)
 ### [Day 13](https://adventofcode.com/2021/day/13)
 Day 13 was a lot of fun. Not reading the instructions well bit me; didn't realize only first fold  was needed in part 1.
 - JS Solution: [Day 13](js/Day13.js)
+
+### [Day 14](https://adventofcode.com/2021/day/14)
+Bruteforced the first attempt, had to re trace and implement an algo with memoization.
+- JS Solution: [Day 14](js/Day14.js)
