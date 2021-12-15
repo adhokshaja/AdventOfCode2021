@@ -1,7 +1,5 @@
 var fs = require("fs");
-const { resourceLimits } = require("worker_threads");
 var input = fs.readFileSync("inputs/day15.txt", "utf8").trim();
-const heap = require('heap-js');
 
 
 var testInput = `1163751742
@@ -68,6 +66,6 @@ return (findLowestPathCost(map));
 
 }
 
-console.log(part2(input));
+console.log(part2(testInput));
 
 
